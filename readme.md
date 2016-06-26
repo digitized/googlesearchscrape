@@ -3,7 +3,7 @@
 Simple Web Scrape for Google Search, Images, News
 
 ### Version
-0.2.3
+0.2.4
 
 ### Installation
 ```sh
@@ -13,8 +13,8 @@ $ npm i --save google-search-scrape
 ### Usage
     // Return data as promises
     var gss = require('google-search-scrape');
-    // Returns promise with array of Searches (Object)
     var query = 'cats';
+
     // Returns promise with website link (String)    
     gss.getWebsite(query)
         .then(function(response) { console.log(response) });
