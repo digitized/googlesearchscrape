@@ -1,6 +1,6 @@
 {
   "name": "google-search-scrape",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Get google search results for searches, news, images, and websites",
   "main": "./dist/index.js",
   "scripts": {
