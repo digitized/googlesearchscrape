@@ -3,7 +3,7 @@
 Simple Web Scrape for Google Search, Images, News
 
 ### Version
-0.2.0
+0.2.1
 
 ### Installation
 ```sh
